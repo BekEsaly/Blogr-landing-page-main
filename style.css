@@ -232,7 +232,7 @@ button{
      .dropdown-btn:hover{
         text-decoration: none;
     }
-    .dropdown-btn a img{
+    .dropdown-btn img{
         content: url('./images/icon-arrow-dark.svg');
     }
     .header--menu-submit #primary{
